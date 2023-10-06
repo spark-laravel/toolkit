@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace SparkLaravel\Toolkit\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class ToolkitCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'toolkit';
 
     public $description = 'My command';
 
